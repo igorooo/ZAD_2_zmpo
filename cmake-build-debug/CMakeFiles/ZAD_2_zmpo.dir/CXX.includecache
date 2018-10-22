@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+string
+-
+iostream
+-
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.cpp
+CMenu.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
+vector
+-
+string
+-
+cstdlib
+-
+CMenuItem.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+CMenuCommand.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
+CCommand.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+CMenuItem.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+iostream
+-
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+string
+-
+iostream
+-
+
