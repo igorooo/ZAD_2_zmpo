@@ -91,13 +91,16 @@ void CMenu::run() {
 
         BOUND = this->VECTOR.size();
 
+        cout<<"\n\n";
+        cout<<"To add positions in menu enter: (edit), to remove positions enter: (delete)"<<endl<<endl;
+
 
         for(int i = 0 ; i < BOUND ; i++){
 
-
-            cout<<i+1<<". ";
             if(i == 0) cout<<"current menu: ";
             VECTOR[i]->show();
+
+            if(i < BOUND-1) cout<<i+1<<". ";
 
         }
 
@@ -122,7 +125,7 @@ void CMenu::run() {
             }
 
             else{
-                cout<<"There is not such a position!"<<endl;
+                cout<<"There is no such a position!"<<endl;
             }
 
         }

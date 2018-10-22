@@ -25,14 +25,26 @@ CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/CTable.h
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o: ../CTABLE/ArrayLength.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o: ../CTABLE/ArrayLength.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o: ../CTABLE/CTable.h
+
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.h
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/RmObject.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/RmObject.h
 
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenu.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuItem.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/AddObject.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/ArrayLength.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/RmObject.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../main.cpp
 

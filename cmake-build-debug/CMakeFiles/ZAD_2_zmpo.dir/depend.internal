@@ -25,14 +25,26 @@ CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp

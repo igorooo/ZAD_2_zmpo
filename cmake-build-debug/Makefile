@@ -258,6 +258,33 @@ CTABLE/AddObject.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.s
 .PHONY : CTABLE/AddObject.cpp.s
 
+CTABLE/ArrayLength.o: CTABLE/ArrayLength.cpp.o
+
+.PHONY : CTABLE/ArrayLength.o
+
+# target to build an object file
+CTABLE/ArrayLength.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o
+.PHONY : CTABLE/ArrayLength.cpp.o
+
+CTABLE/ArrayLength.i: CTABLE/ArrayLength.cpp.i
+
+.PHONY : CTABLE/ArrayLength.i
+
+# target to preprocess a source file
+CTABLE/ArrayLength.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.i
+.PHONY : CTABLE/ArrayLength.cpp.i
+
+CTABLE/ArrayLength.s: CTABLE/ArrayLength.cpp.s
+
+.PHONY : CTABLE/ArrayLength.s
+
+# target to generate assembly for a file
+CTABLE/ArrayLength.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.s
+.PHONY : CTABLE/ArrayLength.cpp.s
+
 CTABLE/CTable.o: CTABLE/CTable.cpp.o
 
 .PHONY : CTABLE/CTable.o
@@ -284,6 +311,33 @@ CTABLE/CTable.s: CTABLE/CTable.cpp.s
 CTABLE/CTable.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s
 .PHONY : CTABLE/CTable.cpp.s
+
+CTABLE/RmObject.o: CTABLE/RmObject.cpp.o
+
+.PHONY : CTABLE/RmObject.o
+
+# target to build an object file
+CTABLE/RmObject.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o
+.PHONY : CTABLE/RmObject.cpp.o
+
+CTABLE/RmObject.i: CTABLE/RmObject.cpp.i
+
+.PHONY : CTABLE/RmObject.i
+
+# target to preprocess a source file
+CTABLE/RmObject.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.i
+.PHONY : CTABLE/RmObject.cpp.i
+
+CTABLE/RmObject.s: CTABLE/RmObject.cpp.s
+
+.PHONY : CTABLE/RmObject.s
+
+# target to generate assembly for a file
+CTABLE/RmObject.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.s
+.PHONY : CTABLE/RmObject.cpp.s
 
 main.o: main.cpp.o
 
@@ -336,9 +390,15 @@ help:
 	@echo "... CTABLE/AddObject.o"
 	@echo "... CTABLE/AddObject.i"
 	@echo "... CTABLE/AddObject.s"
+	@echo "... CTABLE/ArrayLength.o"
+	@echo "... CTABLE/ArrayLength.i"
+	@echo "... CTABLE/ArrayLength.s"
 	@echo "... CTABLE/CTable.o"
 	@echo "... CTABLE/CTable.i"
 	@echo "... CTABLE/CTable.s"
+	@echo "... CTABLE/RmObject.o"
+	@echo "... CTABLE/RmObject.i"
+	@echo "... CTABLE/RmObject.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

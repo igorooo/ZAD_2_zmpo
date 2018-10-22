@@ -9,7 +9,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o"
   "/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o"
   "/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o"
+  "/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o"
   "/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o"
+  "/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o"
   "/home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp" "/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

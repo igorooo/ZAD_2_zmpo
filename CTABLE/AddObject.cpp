@@ -32,6 +32,8 @@ void AddObject::run_command() {
                // sleep(1);
             }
 
+
+
             else{
                 this->TABLE->push_back(new CTable(S_NAME,ARRAY_SIZE));
                 cout<<"Sucess"<<endl;
