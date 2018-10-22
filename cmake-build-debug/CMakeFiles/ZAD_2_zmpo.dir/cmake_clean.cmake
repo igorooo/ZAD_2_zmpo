@@ -4,8 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o"
   "CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o"
   "CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.o"
-  "CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o"
   "CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o"
+  "CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o"
   "ZAD_2_zmpo.pdb"
   "ZAD_2_zmpo"
 )

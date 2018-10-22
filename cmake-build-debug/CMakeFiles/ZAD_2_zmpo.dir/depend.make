@@ -9,6 +9,7 @@ CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o: ../CMenu.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o: ../CMenu.h
 CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o: ../CMenuCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o: ../CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o: ../CTABLE/CTable.h
 
 CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o: ../CMenuCommand.cpp
@@ -18,9 +19,20 @@ CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o: ../CMenuItem.h
 CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o: ../CMenuItem.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o: ../CMenuItem.h
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/CTable.h
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.h
+
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenu.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/AddObject.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/CTable.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../main.cpp
 

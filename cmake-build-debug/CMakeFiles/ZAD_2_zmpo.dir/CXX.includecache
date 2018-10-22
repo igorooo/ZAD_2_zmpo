@@ -12,10 +12,6 @@ string
 iostream
 -
 
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.cpp
-CMenu.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
-
 /home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
 vector
 -
@@ -27,6 +23,8 @@ CMenuItem.h
 /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
 CMenuCommand.h
 /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
+CTABLE/CTable.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
 
 /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
 CCommand.h
@@ -41,4 +39,32 @@ string
 -
 iostream
 -
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
+../CCommand.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+../CMenuItem.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+CTable.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+vector
+-
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+iostream
+-
+
+/home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp
+iostream
+-
+cstdlib
+-
+CMenu.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
+CCommand.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+CMenuCommand.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
+CTABLE/AddObject.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
 

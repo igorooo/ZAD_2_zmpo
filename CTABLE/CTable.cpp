@@ -93,7 +93,7 @@ void CTable::set_name(string S_NAME){
 CTable::CTable(){
     this->ARRAY = new int[this->DEFAULT_ARRAY_SIZE];
     this->ARRAY_SIZE = this->DEFAULT_ARRAY_SIZE;
-    this->S_NAME = this->DEFAULT_S_NAME;
+    this->S_NAME = DEFAULT_S_NAME;
 
     cout<<"bezp: '"<<this->S_NAME<<"'"<<endl;
 

@@ -252,6 +252,14 @@ CMenu::CMenu(string S_NAME, string S_COMMAND) {
     this->VECTOR.push_back(this);
 }
 
+CMenu::CMenu(string S_NAME, string S_COMMAND, vector<CTable *> &TABLE) {
+    this->S_NAME = S_NAME;
+    this->S_COMMAND = S_COMMAND;
+    this->VECTOR.push_back(this);
+    this->TABLE = &TABLE;
+
+}
+
 CMenu::~CMenu() {
     cout<<"removing: "<<this->S_NAME<<endl;
 

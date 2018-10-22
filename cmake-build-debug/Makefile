@@ -231,6 +231,33 @@ CMenuItem.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.s
 .PHONY : CMenuItem.cpp.s
 
+CTABLE/AddObject.o: CTABLE/AddObject.cpp.o
+
+.PHONY : CTABLE/AddObject.o
+
+# target to build an object file
+CTABLE/AddObject.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o
+.PHONY : CTABLE/AddObject.cpp.o
+
+CTABLE/AddObject.i: CTABLE/AddObject.cpp.i
+
+.PHONY : CTABLE/AddObject.i
+
+# target to preprocess a source file
+CTABLE/AddObject.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.i
+.PHONY : CTABLE/AddObject.cpp.i
+
+CTABLE/AddObject.s: CTABLE/AddObject.cpp.s
+
+.PHONY : CTABLE/AddObject.s
+
+# target to generate assembly for a file
+CTABLE/AddObject.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.s
+.PHONY : CTABLE/AddObject.cpp.s
+
 CTABLE/CTable.o: CTABLE/CTable.cpp.o
 
 .PHONY : CTABLE/CTable.o
@@ -257,33 +284,6 @@ CTABLE/CTable.s: CTABLE/CTable.cpp.s
 CTABLE/CTable.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s
 .PHONY : CTABLE/CTable.cpp.s
-
-CTable.o: CTable.cpp.o
-
-.PHONY : CTable.o
-
-# target to build an object file
-CTable.cpp.o:
-	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o
-.PHONY : CTable.cpp.o
-
-CTable.i: CTable.cpp.i
-
-.PHONY : CTable.i
-
-# target to preprocess a source file
-CTable.cpp.i:
-	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.i
-.PHONY : CTable.cpp.i
-
-CTable.s: CTable.cpp.s
-
-.PHONY : CTable.s
-
-# target to generate assembly for a file
-CTable.cpp.s:
-	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.s
-.PHONY : CTable.cpp.s
 
 main.o: main.cpp.o
 
@@ -333,12 +333,12 @@ help:
 	@echo "... CMenuItem.o"
 	@echo "... CMenuItem.i"
 	@echo "... CMenuItem.s"
+	@echo "... CTABLE/AddObject.o"
+	@echo "... CTABLE/AddObject.i"
+	@echo "... CTABLE/AddObject.s"
 	@echo "... CTABLE/CTable.o"
 	@echo "... CTABLE/CTable.i"
 	@echo "... CTABLE/CTable.s"
-	@echo "... CTable.o"
-	@echo "... CTable.i"
-	@echo "... CTable.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

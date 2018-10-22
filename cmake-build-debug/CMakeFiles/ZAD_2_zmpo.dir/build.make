@@ -122,22 +122,9 @@ CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.cpp -o CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.s
 
-CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o: CMakeFiles/ZAD_2_zmpo.dir/flags.make
-CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o: ../CTable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o -c /home/qivi/CLionProjects/ZAD_2_zmpo/CTable.cpp
-
-CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/qivi/CLionProjects/ZAD_2_zmpo/CTable.cpp > CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.i
-
-CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/qivi/CLionProjects/ZAD_2_zmpo/CTable.cpp -o CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.s
-
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: CMakeFiles/ZAD_2_zmpo.dir/flags.make
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o -c /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp
 
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.i: cmake_force
@@ -148,6 +135,19 @@ CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp -o CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: CMakeFiles/ZAD_2_zmpo.dir/flags.make
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o -c /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp > CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.i
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp -o CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.s
+
 # Object files for target ZAD_2_zmpo
 ZAD_2_zmpo_OBJECTS = \
 "CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o" \
@@ -155,8 +155,8 @@ ZAD_2_zmpo_OBJECTS = \
 "CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o" \
 "CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o" \
 "CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.o" \
-"CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o" \
-"CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o"
+"CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o" \
+"CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o"
 
 # External object files for target ZAD_2_zmpo
 ZAD_2_zmpo_EXTERNAL_OBJECTS =
@@ -166,8 +166,8 @@ ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CCommand.cpp.o
-ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CTable.cpp.o
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o
+ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/build.make
 ZAD_2_zmpo: CMakeFiles/ZAD_2_zmpo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ZAD_2_zmpo"

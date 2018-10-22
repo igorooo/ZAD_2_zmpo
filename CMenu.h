@@ -10,6 +10,7 @@
 #include <cstdlib>
 #include "CMenuItem.h"
 #include "CMenuCommand.h"
+#include "CTABLE/CTable.h"
 #define CMENU_ID 1
 #define BACK "back"
 #define EDIT_MENU "edit"
@@ -23,6 +24,7 @@ class CMenu : public CMenuItem{
 private:
 
     vector <CMenuItem*> VECTOR;
+    vector <CTable*> *TABLE;
 
     string name_helper(string NAME);
     string command_helper(string COMMAND);
@@ -40,6 +42,7 @@ public:
     int delete_command_helper(string COMMAND);
     int class_id();
 
+    CMenu(string S_NAME, string S_COMMAND,vector <CTable*> &TABLE);
     CMenu(string S_NAME, string S_COMMAND);
     ~CMenu();
 

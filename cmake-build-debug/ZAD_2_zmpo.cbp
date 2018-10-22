@@ -106,13 +106,16 @@
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h">
-			<Option target="ZAD_2_zmpo"/>
-		</Unit>
-		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTable.cpp">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp">
