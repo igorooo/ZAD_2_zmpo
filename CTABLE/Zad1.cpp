@@ -43,11 +43,10 @@ void Zad1::run() {
 
     REMOVE_ALL->run_command();
 
-    delete ADD_CLONE,ADD_OBJ,ARRAY_LENGTH,REMOVE_ALL,REMOVE_OBJECT,SET_OBJ_NAME,GET_INFO,SET_VAL;
 
-    for(int i = 0; i < CMENU_COMMAND_ARRAY.size(); i++){
-        delete CMENU_COMMAND_ARRAY.at(i);
-    }
+    //delete ADD_CLONE,ADD_OBJ,ARRAY_LENGTH,REMOVE_ALL,REMOVE_OBJECT,SET_OBJ_NAME,GET_INFO,SET_VAL;
+
+    delete MENU;
 
     CMENU_COMMAND_ARRAY.clear();
 
