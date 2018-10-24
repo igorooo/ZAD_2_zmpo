@@ -19,6 +19,11 @@ CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o
 CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.cpp
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
@@ -33,18 +38,60 @@ CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.cpp
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.cpp
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.cpp
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o
  /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h
+ /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h
  /home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp

@@ -106,6 +106,12 @@
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuItem.h">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.cpp">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
@@ -124,10 +130,40 @@
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/CTable.h">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.cpp">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.cpp">
+			<Option target="ZAD_2_zmpo"/>
+		</Unit>
+		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h">
 			<Option target="ZAD_2_zmpo"/>
 		</Unit>
 		<Unit filename="/home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp">

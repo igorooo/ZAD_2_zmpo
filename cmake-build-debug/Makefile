@@ -231,6 +231,33 @@ CMenuItem.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.s
 .PHONY : CMenuItem.cpp.s
 
+CTABLE/AddClone.o: CTABLE/AddClone.cpp.o
+
+.PHONY : CTABLE/AddClone.o
+
+# target to build an object file
+CTABLE/AddClone.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o
+.PHONY : CTABLE/AddClone.cpp.o
+
+CTABLE/AddClone.i: CTABLE/AddClone.cpp.i
+
+.PHONY : CTABLE/AddClone.i
+
+# target to preprocess a source file
+CTABLE/AddClone.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.i
+.PHONY : CTABLE/AddClone.cpp.i
+
+CTABLE/AddClone.s: CTABLE/AddClone.cpp.s
+
+.PHONY : CTABLE/AddClone.s
+
+# target to generate assembly for a file
+CTABLE/AddClone.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.s
+.PHONY : CTABLE/AddClone.cpp.s
+
 CTABLE/AddObject.o: CTABLE/AddObject.cpp.o
 
 .PHONY : CTABLE/AddObject.o
@@ -312,6 +339,60 @@ CTABLE/CTable.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.s
 .PHONY : CTABLE/CTable.cpp.s
 
+CTABLE/GetInfo.o: CTABLE/GetInfo.cpp.o
+
+.PHONY : CTABLE/GetInfo.o
+
+# target to build an object file
+CTABLE/GetInfo.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o
+.PHONY : CTABLE/GetInfo.cpp.o
+
+CTABLE/GetInfo.i: CTABLE/GetInfo.cpp.i
+
+.PHONY : CTABLE/GetInfo.i
+
+# target to preprocess a source file
+CTABLE/GetInfo.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.i
+.PHONY : CTABLE/GetInfo.cpp.i
+
+CTABLE/GetInfo.s: CTABLE/GetInfo.cpp.s
+
+.PHONY : CTABLE/GetInfo.s
+
+# target to generate assembly for a file
+CTABLE/GetInfo.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.s
+.PHONY : CTABLE/GetInfo.cpp.s
+
+CTABLE/RmAll.o: CTABLE/RmAll.cpp.o
+
+.PHONY : CTABLE/RmAll.o
+
+# target to build an object file
+CTABLE/RmAll.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o
+.PHONY : CTABLE/RmAll.cpp.o
+
+CTABLE/RmAll.i: CTABLE/RmAll.cpp.i
+
+.PHONY : CTABLE/RmAll.i
+
+# target to preprocess a source file
+CTABLE/RmAll.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.i
+.PHONY : CTABLE/RmAll.cpp.i
+
+CTABLE/RmAll.s: CTABLE/RmAll.cpp.s
+
+.PHONY : CTABLE/RmAll.s
+
+# target to generate assembly for a file
+CTABLE/RmAll.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.s
+.PHONY : CTABLE/RmAll.cpp.s
+
 CTABLE/RmObject.o: CTABLE/RmObject.cpp.o
 
 .PHONY : CTABLE/RmObject.o
@@ -338,6 +419,87 @@ CTABLE/RmObject.s: CTABLE/RmObject.cpp.s
 CTABLE/RmObject.cpp.s:
 	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.s
 .PHONY : CTABLE/RmObject.cpp.s
+
+CTABLE/SetObjName.o: CTABLE/SetObjName.cpp.o
+
+.PHONY : CTABLE/SetObjName.o
+
+# target to build an object file
+CTABLE/SetObjName.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o
+.PHONY : CTABLE/SetObjName.cpp.o
+
+CTABLE/SetObjName.i: CTABLE/SetObjName.cpp.i
+
+.PHONY : CTABLE/SetObjName.i
+
+# target to preprocess a source file
+CTABLE/SetObjName.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.i
+.PHONY : CTABLE/SetObjName.cpp.i
+
+CTABLE/SetObjName.s: CTABLE/SetObjName.cpp.s
+
+.PHONY : CTABLE/SetObjName.s
+
+# target to generate assembly for a file
+CTABLE/SetObjName.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.s
+.PHONY : CTABLE/SetObjName.cpp.s
+
+CTABLE/SetVal.o: CTABLE/SetVal.cpp.o
+
+.PHONY : CTABLE/SetVal.o
+
+# target to build an object file
+CTABLE/SetVal.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o
+.PHONY : CTABLE/SetVal.cpp.o
+
+CTABLE/SetVal.i: CTABLE/SetVal.cpp.i
+
+.PHONY : CTABLE/SetVal.i
+
+# target to preprocess a source file
+CTABLE/SetVal.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.i
+.PHONY : CTABLE/SetVal.cpp.i
+
+CTABLE/SetVal.s: CTABLE/SetVal.cpp.s
+
+.PHONY : CTABLE/SetVal.s
+
+# target to generate assembly for a file
+CTABLE/SetVal.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.s
+.PHONY : CTABLE/SetVal.cpp.s
+
+CTABLE/Zad1.o: CTABLE/Zad1.cpp.o
+
+.PHONY : CTABLE/Zad1.o
+
+# target to build an object file
+CTABLE/Zad1.cpp.o:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o
+.PHONY : CTABLE/Zad1.cpp.o
+
+CTABLE/Zad1.i: CTABLE/Zad1.cpp.i
+
+.PHONY : CTABLE/Zad1.i
+
+# target to preprocess a source file
+CTABLE/Zad1.cpp.i:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.i
+.PHONY : CTABLE/Zad1.cpp.i
+
+CTABLE/Zad1.s: CTABLE/Zad1.cpp.s
+
+.PHONY : CTABLE/Zad1.s
+
+# target to generate assembly for a file
+CTABLE/Zad1.cpp.s:
+	$(MAKE) -f CMakeFiles/ZAD_2_zmpo.dir/build.make CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.s
+.PHONY : CTABLE/Zad1.cpp.s
 
 main.o: main.cpp.o
 
@@ -387,6 +549,9 @@ help:
 	@echo "... CMenuItem.o"
 	@echo "... CMenuItem.i"
 	@echo "... CMenuItem.s"
+	@echo "... CTABLE/AddClone.o"
+	@echo "... CTABLE/AddClone.i"
+	@echo "... CTABLE/AddClone.s"
 	@echo "... CTABLE/AddObject.o"
 	@echo "... CTABLE/AddObject.i"
 	@echo "... CTABLE/AddObject.s"
@@ -396,9 +561,24 @@ help:
 	@echo "... CTABLE/CTable.o"
 	@echo "... CTABLE/CTable.i"
 	@echo "... CTABLE/CTable.s"
+	@echo "... CTABLE/GetInfo.o"
+	@echo "... CTABLE/GetInfo.i"
+	@echo "... CTABLE/GetInfo.s"
+	@echo "... CTABLE/RmAll.o"
+	@echo "... CTABLE/RmAll.i"
+	@echo "... CTABLE/RmAll.s"
 	@echo "... CTABLE/RmObject.o"
 	@echo "... CTABLE/RmObject.i"
 	@echo "... CTABLE/RmObject.s"
+	@echo "... CTABLE/SetObjName.o"
+	@echo "... CTABLE/SetObjName.i"
+	@echo "... CTABLE/SetObjName.s"
+	@echo "... CTABLE/SetVal.o"
+	@echo "... CTABLE/SetVal.i"
+	@echo "... CTABLE/SetVal.s"
+	@echo "... CTABLE/Zad1.o"
+	@echo "... CTABLE/Zad1.i"
+	@echo "... CTABLE/Zad1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

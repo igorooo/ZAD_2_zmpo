@@ -19,6 +19,11 @@ CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o: ../CMenuItem.h
 CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o: ../CMenuItem.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CMenuItem.cpp.o: ../CMenuItem.h
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o: ../CTABLE/AddClone.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o: ../CTABLE/AddClone.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddClone.cpp.o: ../CTABLE/CTable.h
+
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CMenuItem.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/AddObject.cpp.o: ../CTABLE/AddObject.cpp
@@ -33,18 +38,60 @@ CMakeFiles/ZAD_2_zmpo.dir/CTABLE/ArrayLength.cpp.o: ../CTABLE/CTable.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/CTable.cpp.o: ../CTABLE/CTable.h
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o: ../CTABLE/GetInfo.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/GetInfo.cpp.o: ../CTABLE/GetInfo.h
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o: ../CTABLE/RmAll.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmAll.cpp.o: ../CTABLE/RmAll.h
+
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/CTable.h
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/RmObject.cpp
 CMakeFiles/ZAD_2_zmpo.dir/CTABLE/RmObject.cpp.o: ../CTABLE/RmObject.h
 
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o: ../CTABLE/SetObjName.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetObjName.cpp.o: ../CTABLE/SetObjName.h
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o: ../CTABLE/SetVal.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/SetVal.cpp.o: ../CTABLE/SetVal.h
+
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CMenu.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CMenuCommand.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/AddClone.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/AddObject.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/ArrayLength.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/GetInfo.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/RmAll.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/RmObject.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/SetObjName.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/SetVal.h
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/Zad1.cpp
+CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o: ../CTABLE/Zad1.h
+
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenu.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuCommand.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CMenuItem.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/AddClone.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/AddObject.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/ArrayLength.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/CTable.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/GetInfo.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/RmAll.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/RmObject.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/SetObjName.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/SetVal.h
+CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../CTABLE/Zad1.h
 CMakeFiles/ZAD_2_zmpo.dir/main.cpp.o: ../main.cpp
 
