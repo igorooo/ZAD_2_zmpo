@@ -1,4 +1,4 @@
-/home/qivi/DeveloperTools/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qivi/CLionProjects/ZAD_2_zmpo
+/home/qivi/Apps/DevTools/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qivi/CLionProjects/ZAD_2_zmpo
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/qivi/CLionProjects/ZAD_2_zmpo/cmake-build-debug
