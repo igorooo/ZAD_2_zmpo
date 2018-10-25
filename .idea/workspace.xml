@@ -14,12 +14,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5794e31e-a343-43a0-98f1-f5a2bf301372" name="Default Changelist" comment="debugged">
+    <list default="true" id="5794e31e-a343-43a0-98f1-f5a2bf301372" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CMenu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMenuCommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CMenuCommand.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CTABLE/Zad1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CTABLE/Zad1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenu.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CTABLE/Zad1.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CMenuCommand.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZAD_2_zmpo.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ZAD_2_zmpo" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ZAD_2_zmpo" afterDir="false" />
     </list>
@@ -35,41 +34,42 @@
     <session id="-305637068">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ZAD_2_zmpo (disassembly)" value="2" />
-          <entry key="cpp" value="26" />
-          <entry key="h" value="29" />
+          <entry key="cpp" value="28" />
+          <entry key="h" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Disassembly" value="2" />
-          <entry key="ObjectiveC" value="55" />
+          <entry key="ObjectiveC" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="5363" />
+          <entry key="cpp" value="5452" />
           <entry key="h" value="2614" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="7977" />
+          <entry key="ObjectiveC" value="8066" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -80,12 +80,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMenu.h">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="90">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
-                <element signature="e#94#111#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,29 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CTABLE/Zad1.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMenu.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="267" column="19" selection-start-line="267" selection-start-column="19" selection-end-line="267" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CTABLE/Zad1.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-              <folding>
-                <element signature="e#92#111#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="540">
+              <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -133,7 +112,6 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CCommand.h" />
         <option value="$PROJECT_DIR$/CMenuCommand.h" />
-        <option value="$PROJECT_DIR$/CMenuCommand.cpp" />
         <option value="$PROJECT_DIR$/CMenuItem.h" />
         <option value="$PROJECT_DIR$/CMenuItem.cpp" />
         <option value="$PROJECT_DIR$/CTable.h" />
@@ -161,6 +139,7 @@
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/CTABLE/Zad1.h" />
         <option value="$PROJECT_DIR$/CMenu.cpp" />
+        <option value="$PROJECT_DIR$/CMenuCommand.cpp" />
         <option value="$PROJECT_DIR$/CTABLE/Zad1.cpp" />
       </list>
     </option>
@@ -171,7 +150,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1" />
     <option name="y" value="49" />
     <option name="width" value="1922" />
@@ -183,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,11 +170,15 @@
               <item name="ZAD_2_zmpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZAD_2_zmpo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ZAD_2_zmpo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZAD_2_zmpo" type="462c0819:PsiDirectoryNode" />
+              <item name="CTABLE" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,11 +236,12 @@
       <workItem from="1540248891822" duration="616000" />
       <workItem from="1540390361535" duration="3019000" />
       <workItem from="1540423217497" duration="1573000" />
+      <workItem from="1540471101945" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46204000" />
+    <option name="totallyTimeSpent" value="47414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,22 +253,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="49" width="1922" height="999" extended-state="6" />
+    <frame x="-1" y="50" width="1368" height="691" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27103302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27567977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924472" visible="true" weight="0.31118882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32875144" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32875144" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32867134" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32875144" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007553" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32951945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -318,13 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMenuCommand.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CTable.h" />
     <entry file="file://$PROJECT_DIR$/CTable.cpp" />
     <entry file="file://$PROJECT_DIR$/CTABLE/CTable.h">
@@ -348,20 +326,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMenuCommand.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CTABLE/AddObject.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="15" selection-start-line="15" selection-end-line="26" />
-          <folding>
-            <element signature="e#103#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,9 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#104#121#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,9 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="26" />
-          <folding>
-            <element signature="e#101#118#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,27 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CTABLE/RmObject.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMenu.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="267" column="19" selection-start-line="267" selection-start-column="19" selection-end-line="267" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -527,10 +472,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMenuCommand.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMenuCommand.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CTABLE/Zad1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        <state relative-caret-position="540">
+          <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
         </state>
       </provider>
     </entry>

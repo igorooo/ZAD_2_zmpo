@@ -27,14 +27,14 @@ void Zad1::run() {
 
     vector <CMenuCommand*> CMENU_COMMAND_ARRAY;
 
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("add object","1",ADD_OBJ));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("check length of array","2",ARRAY_LENGTH));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("remove object","3",REMOVE_OBJECT));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("remove all","4",REMOVE_ALL));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("set object name","5",SET_OBJ_NAME));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("add clone","6",ADD_CLONE));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("get info","7",GET_INFO));
-    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("set val","8",SET_VAL));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Add objects","1",ADD_OBJ));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Check object's array length","2",ARRAY_LENGTH));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Remove object","3",REMOVE_OBJECT));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Remove all","4",REMOVE_ALL));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Set object name","5",SET_OBJ_NAME));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Add clone","6",ADD_CLONE));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Get info about object","7",GET_INFO));
+    CMENU_COMMAND_ARRAY.push_back(new CMenuCommand("Set value in object's array","8",SET_VAL));
 
 
     for(int i = 0; i < CMENU_COMMAND_ARRAY.size(); i++) MENU->add_CMenuItem(CMENU_COMMAND_ARRAY[i]);

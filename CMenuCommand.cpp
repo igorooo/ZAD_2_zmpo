@@ -41,6 +41,7 @@ CMenuCommand::CMenuCommand(string S_NAME, string S_COMMAND) {
 }
 
 CMenuCommand::~CMenuCommand() {
+    delete COMMAND;
     cout<<"removing: "<<this->S_NAME<<endl;
 }
 

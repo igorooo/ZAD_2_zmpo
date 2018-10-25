@@ -12,10 +12,6 @@ string
 iostream
 -
 
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.cpp
-CMenu.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
-
 /home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
 vector
 -
@@ -114,6 +110,10 @@ CTable.h
 ../CCommand.h
 /home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
 
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.cpp
+Zad1.h
+/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h
+
 /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h
 iostream
 -
@@ -143,34 +143,4 @@ SetVal.h
 /home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h
 vector
 -
-
-/home/qivi/CLionProjects/ZAD_2_zmpo/main.cpp
-iostream
--
-cstdlib
--
-CMenu.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenu.h
-CCommand.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CCommand.h
-CMenuCommand.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CMenuCommand.h
-CTABLE/AddObject.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddObject.h
-CTABLE/ArrayLength.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/ArrayLength.h
-CTABLE/RmObject.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmObject.h
-CTABLE/RmAll.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/RmAll.h
-CTABLE/SetObjName.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetObjName.h
-CTABLE/AddClone.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/AddClone.h
-CTABLE/GetInfo.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/GetInfo.h
-CTABLE/SetVal.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/SetVal.h
-CTABLE/Zad1.h
-/home/qivi/CLionProjects/ZAD_2_zmpo/CTABLE/Zad1.h
 
