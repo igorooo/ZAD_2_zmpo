@@ -41,6 +41,7 @@ public:
     void delete_menu();
     int delete_command_helper(string COMMAND);
     int class_id();
+    void show_leafs();
 
     CMenu(string S_NAME, string S_COMMAND,vector <CTable*> &TABLE);
     CMenu(string S_NAME, string S_COMMAND);

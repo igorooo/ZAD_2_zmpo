@@ -24,6 +24,7 @@ public:
     void run();
     int class_id();
     void remove();
+    void show_leafs();
     CMenuCommand(string S_NAME, string S_COMMAND ,CCommand *COMMAND);
     CMenuCommand(string S_NAME, string S_COMMAND);
     ~CMenuCommand();

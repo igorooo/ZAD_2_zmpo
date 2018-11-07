@@ -246,6 +246,41 @@ int CMenu::class_id() {
     return CMENU_ID;
 }
 
+void CMenu::show_leafs() {
+
+    CMenuItem *TEMP;
+
+   // cout<<"entered: "<<this->S_NAME<<endl;
+
+    if(VECTOR.size() > 1){
+
+        for(int ITER = 1; ITER < VECTOR.size(); ITER++){
+
+            TEMP = VECTOR[ITER];
+
+            if(TEMP->class_id() == 2){
+                cout<<"Leaf: ";
+                TEMP->show();
+            }
+
+            if(TEMP->class_id() == 1){
+                TEMP->show_leafs();
+            }
+
+            //cout<<"-->Cur. TEMP:";
+            //TEMP->show();
+        }
+
+       // cout<<"end of: "<<this->S_NAME<<endl;
+    }
+
+    else{
+        cout<<"Leaf: ";
+        this->show();
+    }
+
+}
+
 
 
 

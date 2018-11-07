@@ -21,6 +21,7 @@ public:
     virtual void run() = 0;
     virtual int class_id() = 0;
     virtual void remove() = 0;
+    virtual void show_leafs() = 0;
     string s_command();
     string s_name();
     void show();

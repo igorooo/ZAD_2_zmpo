@@ -45,4 +45,6 @@ CMenuCommand::~CMenuCommand() {
     cout<<"removing: "<<this->S_NAME<<endl;
 }
 
+void CMenuCommand::show_leafs() {}
+
 

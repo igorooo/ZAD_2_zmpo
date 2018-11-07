@@ -19,23 +19,37 @@ int main() {
 
     ZAD_1->run();
 
+/*
+
+    CMenu *MAIN = new CMenu("Menu glowne","main");
+    CMenu *MENU1 = new CMenu("Podmenu1","menu1");
+    CMenu *MENU2 = new CMenu("Podmenu2","menu2");
+    CMenu *MENU11 = new CMenu("Podmenu11","menu11");
 
 
-    /*CMenu *menu1 = new CMenu("MENU1","menu1");
-    CMenu *menu2 = new CMenu("MENU2","menu2");
-    CMenu *menu3 = new CMenu("MENU3","menu3");
+    CCommand *COM = new CCommand("Ala ma kota");
+    CCommand *COM2 = new CCommand("test");
+    CCommand *COM3 = new CCommand();
 
-    menu1->add_CMenuItem(menu2);
-    menu1->add_CMenuItem(menu3);
+    CMenuCommand *CMCOM1 = new CMenuCommand("Napisz Ala ma kota","ala",COM);
+    CMenuCommand *CMCOM2 = new CMenuCommand("Uruchom przegladarke","internet");
+    CMenuCommand *CMCOM3 = new CMenuCommand("Test","test",COM2);
+    CMenuCommand *CMCOM4 = new CMenuCommand("Default command2","defcom",COM3);
 
-    CCommand *COM = new CCommand("testCCommand");
+    MAIN->add_CMenuItem(MENU1);
+    MAIN->add_CMenuItem(MENU2);
+    MAIN->add_CMenuItem(CMCOM1);
+    MENU1->add_CMenuItem(CMCOM2);
+    MENU1->add_CMenuItem(MENU11);
+    MENU2->add_CMenuItem(CMCOM3);
+    MENU2->add_CMenuItem(CMCOM4);
 
-    CMenuCommand *CMCOM = new CMenuCommand("CMCOM","comm",COM);
 
-    menu1->add_CMenuItem(CMCOM);
+    MAIN->show_leafs();
 
+    MAIN->run();
 
-    menu1->run();
+    /*
 
     vector <CTable*> TABLE;
 
